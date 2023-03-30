@@ -19,7 +19,7 @@ void mas(int m, int n)
     {
         for (j = 0; j < n; j++)
         {
-            randomArray[i, j] = rand.Next(1, 9);
+            randomArray[i, j] = rand.Next(-100, 100);
         }
     }
 }
@@ -32,11 +32,10 @@ void printm(int[,] array)
         Console.WriteLine();
         for (j = 0; j < array.GetLength(1); j++)
         {
-            Console.Write($"{ array[i, j]} ");
+            Console.Write($"{array[i, j]} ");
         }
         Console.WriteLine();
     }
-
 }
 
 mas(m, n);
@@ -50,16 +49,16 @@ void uporyadok(int[,] array)
         for (int j = 0; j < array.GetLength(1); j++)
         {
             for (int k = 0; k < array.GetLength(1) - 1; k++)
-{
-    if (array[i, k] < array[i, k + 1])
-    {
-        int temp = array[i, k + 1];
-        array[i, k + 1] = array[i, k];
-        array[i, k] = temp;
+            {
+                if (array[i, k] < array[i, k + 1])
+                {
+                    int temp = array[i, k + 1];
+                    array[i, k + 1] = array[i, k];
+                    array[i, k] = temp;
+                }
+            }
+        }
     }
-}
-}
-}
 }
 
 uporyadok(randomArray);
