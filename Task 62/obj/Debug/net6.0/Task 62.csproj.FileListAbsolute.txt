@@ -1,0 +1,15 @@
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\Task 62.csproj.AssemblyReference.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\Task 62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\Task 62.AssemblyInfoInputs.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\Task 62.AssemblyInfo.cs
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\Task 62.csproj.CoreCompileInputs.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\bin\Debug\net6.0\Task 62.exe
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\bin\Debug\net6.0\Task 62.deps.json
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\bin\Debug\net6.0\Task 62.runtimeconfig.json
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\bin\Debug\net6.0\Task 62.dll
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\bin\Debug\net6.0\Task 62.pdb
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\Task 62.dll
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\refint\Task 62.dll
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\Task 62.pdb
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\Task 62.genruntimeconfig.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 8\СЕМИНАР 8 ДЗ 8\Task 62\obj\Debug\net6.0\ref\Task 62.dll
