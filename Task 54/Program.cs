@@ -19,7 +19,7 @@ void mas(int m, int n)
     {
         for (j = 0; j < n; j++)
         {
-            randomArray[i, j] = rand.Next(-100, 100);
+            randomArray[i, j] = rand.Next(1, 10);
         }
     }
 }
